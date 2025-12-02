@@ -8,10 +8,6 @@ To install dependencies:
 bun install
 ```
 
-To run:
+Each sub-folder is named after the day it's from, with an `index.ts` inside it. That is the solution from part 1, and `index2.ts` is from part 2. `sample.txt` is the sample input from the puzzle.
 
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.3. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+Each script expects an input.txt in your CWD when you run it.
