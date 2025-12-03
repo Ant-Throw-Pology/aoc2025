@@ -10,4 +10,4 @@ bun install
 
 Each sub-folder is named after the day it's from, with an `index.ts` inside it. That is the solution from part 1, and `index2.ts` is from part 2. `sample.txt` is the sample input from the puzzle.
 
-Each script expects an input.txt in your CWD when you run it.
+Each script expects an input.txt in your CWD when you run it. (according to the FAQ, you're not supposed to share your puzzle inputs, so they're `.gitignore`d here)
